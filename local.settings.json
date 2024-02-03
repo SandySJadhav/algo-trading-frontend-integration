@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=1264013d-b296-4080-9a66-cd8cbc02c35b;IngestionEndpoint=https://centralindia-0.in.applicationinsights.azure.com/;LiveEndpoint=https://centralindia.livediagnostics.monitor.azure.com/",
+    "WEBSITE_NODE_DEFAULT_VERSION": "20.9.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=algotothefutureblob;AccountKey=Xp2KQsgthHhN+tgHWcFwyIIXdh0ZWM2cFjn+l1jZjD3rVRrJYCosPAuZO9ntx3UxCTo/ccdLUIbc+AStWGr4Wg==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "algo-to-the-future-feintbe46",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WEBSITE_SITE_NAME": "algo-to-the-future-feint",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=algotothefutureblob;AccountKey=Xp2KQsgthHhN+tgHWcFwyIIXdh0ZWM2cFjn+l1jZjD3rVRrJYCosPAuZO9ntx3UxCTo/ccdLUIbc+AStWGr4Wg==;EndpointSuffix=core.windows.net"
+  }
+}
